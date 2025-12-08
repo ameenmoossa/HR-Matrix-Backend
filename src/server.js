@@ -29,7 +29,7 @@
 
 // // ROOT TEST
 // app.get("/", (req, res) => {
-//   res.send("SmartHR Backend Running...");
+//   res.send("HR Matrix Backend Running...");
 // });
 
 // // ERROR HANDLER (must be LAST)
